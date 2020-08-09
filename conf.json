@@ -1,0 +1,110 @@
+{
+    "editor.glyphMargin": false,
+    "editor.folding": true,
+    "window.zoomLevel": -1,
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "400",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": false,
+    "git.enableSmartCommit": true,
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true,
+        "suppressWelcomeNotice": true
+    },
+    "extensions.ignoreRecommendations": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "gitlens.keymap": "alternate",
+    "gitlens.historyExplorer.enabled": true,
+    "vim.easymotion": true,
+    "vim.sneak": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "<ctrl>",
+                "j"
+            ],
+            "after": [
+                "<esc>"
+            ]
+        },
+        {
+            "before": [
+                "<cmd>",
+                "["
+            ],
+            "after": [
+                "<esc>"
+            ]
+        },
+        {
+            "before": [
+                "h",
+                "j"
+            ],
+            "after": [
+                "<esc>"
+            ]
+        },
+        {
+            "before": [
+                "j",
+                "h"
+            ],
+            "after": [
+                "<esc>"
+            ]
+        },
+        {
+            "before": [
+                "j",
+                "k"
+            ],
+            "after": [
+                "<esc>"
+            ]
+        },
+        {
+            "before": [
+                "k",
+                "j"
+            ],
+            "after": [
+                "<esc>"
+            ]
+        },
+    ],
+    "editor.wordWrap": "on",
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.tabCompletion": "on",
+    "emmet.showSuggestionsAsSnippets": true,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "editor.fontLigatures": false,
+    "workbench.colorTheme": "Atom Material Theme",
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    }
+}
+
