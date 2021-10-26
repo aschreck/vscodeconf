@@ -7,7 +7,7 @@
     "editor.lineHeight": 25,
     "editor.letterSpacing": 0.5,
     "editor.renderWhitespace": "all",
-    "files.trimTrailingWhitespace": true,
+    "files.trimTrailingWhitespace": false,
     "editor.fontWeight": "400",
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": false,
